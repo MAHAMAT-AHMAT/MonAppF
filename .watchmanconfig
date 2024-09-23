@@ -1,0 +1,7 @@
+{
+    "ignore_dirs": [
+      "Library/Containers/com.apple.Maps",
+      "node_modules"
+    ]
+  }
+  
